@@ -1,0 +1,179 @@
+{
+    "header": {
+        "brand": "Nail Society",
+        "explore": "Khám phá",
+        "salons": "Tiệm nail",
+        "trends": "Xu hướng",
+        "searchPlaceholder": "Tìm kiếm cửa hàng..."
+    },
+    "hero-section": {
+        "label": "Những Xu Hướng Nail Hàng Đầu tại Úc",
+        "title": "Khám phá {highlight} nổi bật ở Australia",
+        "highlight": "xu hướng nail",
+        "description": "Khám phá những xu hướng nail mới nhất tại Úc với thiết kế thời thượng, màu sắc hiện đại và phong cách thể hiện cá tính riêng.",
+        "searchPlaceholder": "Tìm kiếm cửa hàng...",
+        "btnSearch": "Tìm Kiếm",
+        "spanIconOne": "Đã kiểm chứng",
+        "spanIconTwo": "Cao cấp",
+        "spanIconThree": "Thủ công"
+    },
+    "trending-section": {
+        "trending": "Xu hướng tuyển chọn",
+        "seasonalArt": "Nghệ thuật theo mùa",
+        "seeMore": "Xem thêm",
+        "card": [
+            {
+                "title": "Sự trở lại của Chrome kim loại",
+                "subtitle": "Đang thịnh hành"
+            },
+            {
+                "title": "Họa tiết hoa nhí"
+            },
+            {
+                "title": "Xu hướng hiện nay"
+            },
+            {
+                "title": "Vẻ đẹp tối giản sang trọng"
+            }
+        ]
+    },
+    "city-explore-section": {
+        "title": "Khám Phá Nghệ Thuật Trong Thành Phố Của Bạn",
+        "description": "Khám phá các tiệm làm móng hàng đầu tại các trung tâm văn hóa của Úc. Từ những studio avant-garde ở Fitzroy đến những atelier tinh tế ở Double Bay.",
+        "cities": {
+            "sydney": "Sydney",
+            "melbourne": "Melbourne",
+            "brisbane": "Brisbane",
+            "perth": "Perth",
+            "adelaide": "Adelaide",
+            "goldCoast": "Gold Coast"
+        },
+        "hubs": {
+            "melbourne": "Trung Tâm Melbourne",
+            "sydney": "Bờ Biển Sydney"
+        }
+    },
+    "topSalonsSection": {
+        "label": "Nghệ thuật đã xác thực",
+        "title": "Các tiệm được đánh giá cao nhất",
+        "badges": {
+            "topRated": "Top Rated",
+            "ecoFriendly": "Eco-Friendly"
+        },
+        "buttons": {
+            "booking": "Đặt lịch ngay"
+        }
+    },
+    "latestReviews-section": {
+        "label": "Tiếng nói cộng đồng",
+        "title": "Câu chuyện khách hàng mới nhất",
+        "reviews": [
+            {
+                "stars": 5,
+                "text": "Sự tỉ mỉ tại Maison de Vernis thật tuyệt vời. Gel cấu trúc của tôi kéo dài 5 tuần mà không một vết sứt nào. Thật sự là tiêu chuẩn vàng tại Melbourne.",
+                "initials": "SM",
+                "name": "Sarah M."
+            },
+            {
+                "stars": 5,
+                "text": "Tìm được tiệm yêu thích mới nhờ trang này! Không gian ven biển và sơn móng không độc hại hoàn toàn phù hợp với chuyến đi biển của tôi.",
+                "initials": "JW",
+                "name": "Jessica W."
+            },
+            {
+                "stars": 5,
+                "text": "Tài năng nghệ thuật ở Fortitude Valley thật tuyệt vời. Nghệ nhân móng tay đã vẽ thiết kế tùy chỉnh trông như một bức tranh màu nước.",
+                "initials": "RL",
+                "name": "Ruby L."
+            },
+            {
+                "stars": 4,
+                "text": "Giao diện tuyệt vời, dễ dàng tìm những tiệm đang trend. Tôi chỉ ước có thêm nhiều đánh giá hơn cho khu vực Perth Hills!",
+                "initials": "TH",
+                "name": "Taylor H."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Kết nối những khách hàng yêu thích nail với các tiệm nail uy tín và nghệ sĩ tài năng nhất nước Úc. Nơi vẻ đẹp được tuyển chọn, xu hướng được định hình và mỗi bộ móng đều là một dấu ấn cá nhân.",
+        "cities": {
+            "title": "Khám phá khu vực",
+            "new_south_wales": "New South Wales (Sydney – trung tâm nail lớn nhất)",
+            "victoria": "Victoria (Melbourne – thủ phủ sáng tạo & xu hướng)",
+            "queensland": "Queensland (Brisbane – năng động & phát triển)",
+            "south_australia": "South Australia (Adelaide – tinh tế & yên bình)",
+            "western_australia": "Western Australia (Perth – hiện đại & khác biệt)"
+        },
+        "about": {
+            "title": "Về chúng tôi",
+            "about": "Giới thiệu",
+            "contact": "Liên hệ"
+        },
+        "copyright": "&copy; 2026 Nail Society. Giới thiệu những tiệm nail uy tín và nghệ sĩ tài năng nhất Úc."
+    },
+    "pageAllSalons": {
+        "sideBar": {
+            "title": "Tinh chỉnh lựa chọn",
+            "quote": "Bộ móng tay hoàn hảo là phụ kiện tối thượng.",
+            "locationFilter": {
+                "label": "Khu vực",
+                "options": {
+                    "all": "Tất cả khu vực",
+                    "sydneyCBD": "Sydney CBD",
+                    "surryHills": "Surry Hills",
+                    "paddington": "Paddington",
+                    "newtown": "Newtown"
+                }
+            },
+            "filters": {
+                "amenities": {
+                "title": "Tiện ích không gian",
+                "petFriendly": "Thân thiện với thú cưng",
+                "freeParking": "Chỗ đậu xe miễn phí",
+                "champagne": "Phục vụ Champagne"
+                }
+            },
+            "priceRange": {
+                "title": "Khoảng giá"
+            },
+            "filters-rating": {
+                "title": "Xếp hạng khách hàng",
+                "stars": "Sao",
+                "all": "Tất cả đánh giá"
+            },
+            "services": {
+                "title": "Dịch vụ",
+                "gelPolish": "Sơn gel",
+                "acrylicExtensions": "Đắp móng acrylic",
+                "classicManicure": "Chăm sóc móng cơ bản",
+                "pedicureLuxe": "Pedicure cao cấp"
+            }
+
+        },
+        "mainContent": {
+            "destinationCard": {
+                "btnBooking":"Đặt lịch ngay"
+            },
+            "curated_collection": "Bộ Sưu Tập Tuyển Chọn",
+            "sydney_artistry": "Nghệ Thuật Sydney",
+            "showing_destinations": "Hiển thị {{count}} điểm đến cao cấp",
+            "previous": "Trước",
+            "next": "Tiếp"
+        }
+    },
+    "footer-admin": {
+      "copyright": "Nail Society © {{year}} • Quản lý hệ thống thẩm mỹ."
+    },
+    "sidebar-admin": {
+        "text-admin":"Quản trị viên",
+    "dashboard": "Bảng điều khiển",
+    "manageSalon": "Quản lý Salon",
+    "appointments": "Lịch hẹn",
+    "staff": "Chuyên viên",
+    "reviews": "Đánh giá",
+    "settings": "Cài đặt",
+    "help": "Trợ giúp",
+    "logout": "Đăng xuất"
+  }
+    
+}

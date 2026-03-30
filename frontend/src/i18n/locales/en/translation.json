@@ -1,0 +1,173 @@
+{
+    "header": {
+        "brand": "Nail Society",
+        "explore": "Explore",
+        "salons": "Salons",
+        "trends": "Trends",
+        "searchPlaceholder": "Search store..."
+    },
+    "hero-section": {
+        "label": "Top Nail Trends in Australia",
+        "title": "Discover standout {highlight} in Australia",
+        "highlight": "nail trends",
+        "description": "Discover the latest nail trends in Australia, featuring stylish designs, modern colors, and looks that express your unique style.",
+        "searchPlaceholder": "Search store...",
+        "btnSearch": "Search",
+        "spanIconOne": "Verified",
+        "spanIconTwo": "Premium",
+        "spanIconThree": "Handmade"
+    },
+    "trending-section": {
+        "trending": "Curated Trends",
+        "seasonalArt": "Seasonal Art",
+        "seeMore": "See More",
+        "card": [
+            {
+                "title": "Chrome Metal Comeback",
+                "subtitle": "Trending"
+            },
+            {
+                "title": "Tiny Floral Patterns"
+            },
+            {
+                "title": "Current Trends"
+            },
+            {
+                "title": "Minimal Luxury Beauty"
+            }
+        ]
+    },
+    "city-explore-section": {
+        "title": "Explore the Artistry of Your City",
+        "description": "Discover top-tier salons across Australia's cultural hubs. From the avant-garde studios of Fitzroy to the polished ateliers of Double Bay.",
+        "cities": {
+            "sydney": "Sydney",
+            "melbourne": "Melbourne",
+            "brisbane": "Brisbane",
+            "perth": "Perth",
+            "adelaide": "Adelaide",
+            "goldCoast": "Gold Coast"
+        },
+        "hubs": {
+            "melbourne": "Melbourne Hub",
+            "sydney": "Sydney Coast"
+        }
+    },
+    "topSalonsSection": {
+        "label": "Verified Artistry",
+        "title": "Top Rated Salons",
+        "badges": {
+            "topRated": "Top Rated",
+            "ecoFriendly": "Eco-Friendly"
+        },
+        "buttons": {
+            "booking": "Book Now"
+        }
+    },
+    "latestReviews-section": {
+        "label": "Community Voices",
+        "title": "Latest Customer Stories",
+        "reviews": [
+            {
+                "text": "The attention to detail at Maison de Vernis is unparalleled. My structured gel lasted 5 weeks without a single chip. Truly the gold standard in Melbourne.",
+                "initials": "SM",
+                "name": "Sarah M."
+            },
+            {
+                "text": "Found my new regular through this site! The coastal vibes and non-toxic polishes are exactly what I needed for my beach weekend.",
+                "initials": "JW",
+                "name": "Jessica W."
+            },
+            {
+                "text": "The artistic talent in Fortitude Valley is insane. My nail artist hand-painted a custom design that looked like a watercolor painting.",
+                "initials": "RL",
+                "name": "Ruby L."
+            },
+            {
+                "text": "Great interface, easy to find who's trending. I just wish there were more reviews for the Perth hills area!",
+                "initials": "TH",
+                "name": "Taylor H."
+            }
+        ]
+    },
+    "footer": {
+        "description": "Connecting nail lovers with trusted salons and the most talented nail artists across Australia. A curated space where beauty is refined, trends are shaped, and every set of nails becomes a personal statement.",
+        "cities": {
+            "title": "Explore Regions",
+            "new_south_wales": "New South Wales (Sydney – the largest nail market)",
+            "victoria": "Victoria (Melbourne – creative & trend-driven hub)",
+            "queensland": "Queensland (Brisbane – vibrant & growing scene)",
+            "south_australia": "South Australia (Adelaide – refined & relaxed)",
+            "western_australia": "Western Australia (Perth – modern & distinctive)"
+        },
+        "about": {
+            "title": "About",
+            "about": "About Us",
+            "contact": "Contact"
+        },
+        "copyright": "© 2026 Nail Society. A platform showcasing trusted nail salons and top-tier nail artists across Australia."
+    },
+    "pageAllSalons": {
+        "sideBar": {
+            "title": "Refine selection",
+            "quote": "The perfect manicure is the ultimate accessory.",
+            "locationFilter": {
+                "label": "Location",
+                "options": {
+                    "all": "All locations",
+                    "sydneyCBD": "Sydney CBD",
+                    "surryHills": "Surry Hills",
+                    "paddington": "Paddington",
+                    "newtown": "Newtown"
+                }
+            },
+            "filters": {
+                "amenities": {
+                "title": "Amenities",
+                "petFriendly": "Pet-friendly",
+                "freeParking": "Free parking",
+                "champagne": "Champagne service"
+                }
+            },
+            "priceRange": {
+                "title": "Price Range"
+            },
+            "filters-rating": {
+                "title": "Customer Rating",
+                "stars": "Stars",
+                "all": "All ratings"
+            },
+            "services": {
+                "title": "Services",
+                "gelPolish": "Gel Polish",
+                "acrylicExtensions": "Acrylic Extensions",
+                "classicManicure": "Classic Manicure",
+                "pedicureLuxe": "Luxury Pedicure"
+            }
+        },
+         "mainContent": {
+            "destinationCard": {
+                "btnBooking":"Booking Now"
+            },
+            "curated_collection": "Curated Collection",
+            "sydney_artistry": "Sydney Artistry",
+            "showing_destinations": "Showing {{count}} premium destinations",
+            "previous": "Previous",
+            "next": "Next"
+        }
+    },
+    "footer-admin": {
+      "copyright": "Nail Society © {{year}} • Beauty salon management."
+    },
+        "sidebar-admin": {
+        "text-admin":"Administrator",
+        "dashboard": "Dashboard",
+        "manageSalon": "Manage Salon",
+        "appointments": "Appointments",
+        "staff": "Staff",
+        "reviews": "Reviews",
+        "settings": "Settings",
+        "help": "Help",
+        "logout": "Logout"
+    }
+}
