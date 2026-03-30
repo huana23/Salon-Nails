@@ -204,7 +204,7 @@ export default function handler(req, res) {
       "phone": "0795477317",
       "website": "https://www.figma.com/design/",
       "btnBooking": "https://www.figma.com/design/",
-      "imgStore": "http://localhost:5001/uploads/1774500965546.jpg",
+      "imgStore": "https://i.pinimg.com/736x/34/42/e1/3442e1354960adc2e5ea5fcc51539373.jpg",
       "services": [],
       "avgRating": 0,
       "reviews": [],
@@ -221,7 +221,7 @@ export default function handler(req, res) {
       "phone": "0795477317",
       "website": "https://www.figma.com/design/",
       "btnBooking": "https://www.figma.com/design/",
-      "imgStore": "http://localhost:5001/uploads/1774874562130.jpg",
+      "imgStore": "https://i.pinimg.com/1200x/8c/90/98/8c9098feb4ee59445e240a348039dd8e.jpg",
       "services": [],
       "avgRating": 0,
       "reviews": [],
@@ -238,12 +238,202 @@ export default function handler(req, res) {
       "phone": "0795477317",
       "website": "",
       "btnBooking": "",
-      "imgStore": "http://localhost:5001/uploads/1774874590748.jpg",
+      "imgStore": "https://i.pinimg.com/1200x/6e/81/9b/6e819b8ffe1bd20acab51102af86f0ba.jpg",
       "services": [],
       "avgRating": 0,
       "reviews": [],
       "createdAt": "2026-03-30T12:43:24.758Z",
       "updatedAt": "2026-03-30T12:43:24.758Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cb12345d811d70570ba875",
+      "name": "Sunset Nails & Spa",
+      "address": "55 Trần Hưng Đạo",
+      "city": "Hà Nội",
+      "state": "Hà Nội",
+      "phone": "0912345678",
+      "website": "https://sunsetnails.vn",
+      "btnBooking": "https://sunsetnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/ab/cd/12/abcdef1234567890.jpg",
+      "services": ["Manicure", "Pedicure", "Gel Nails"],
+      "avgRating": 4.5,
+      "reviews": [
+        { "user": "Mai", "rating": 5, "comment": "Nhân viên thân thiện, dịch vụ tốt!" }
+      ],
+      "createdAt": "2026-03-30T13:00:00.000Z",
+      "updatedAt": "2026-03-30T13:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cb12345d811d70570ba876",
+      "name": "Ocean Breeze Nails",
+      "address": "77 Lê Duẩn",
+      "city": "Đà Nẵng",
+      "state": "Đà Nẵng",
+      "phone": "0987654322",
+      "website": "https://oceanbreeze.vn",
+      "btnBooking": "https://oceanbreeze.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/cd/ef/34/cdef341234567890.jpg",
+      "services": ["Nail Art", "Spa Hand & Foot"],
+      "avgRating": 4,
+      "reviews": [
+        { "user": "Hà", "rating": 4, "comment": "Không gian sạch sẽ, rất chuyên nghiệp." }
+      ],
+      "createdAt": "2026-03-30T13:05:00.000Z",
+      "updatedAt": "2026-03-30T13:05:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cb12345d811d70570ba877",
+      "name": "Pearl Nails Studio",
+      "address": "10 Phạm Ngũ Lão",
+      "city": "Hồ Chí Minh",
+      "state": "HCM",
+      "phone": "0901234567",
+      "website": "https://pearlnails.vn",
+      "btnBooking": "https://pearlnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/ef/12/ab/ef12ab3456789012.jpg",
+      "services": ["Acrylic Nails", "Manicure", "Pedicure"],
+      "avgRating": 4.8,
+      "reviews": [
+        { "user": "An", "rating": 5, "comment": "Rất đẹp và sạch sẽ, nhân viên nhiệt tình!" }
+      ],
+      "createdAt": "2026-03-30T13:10:00.000Z",
+      "updatedAt": "2026-03-30T13:10:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cb12345d811d70570ba878",
+      "name": "Golden Touch Nails",
+      "address": "22 Nguyễn Huệ",
+      "city": "Hà Nội",
+      "state": "Hà Nội",
+      "phone": "0911223344",
+      "website": "https://goldentouchnails.vn",
+      "btnBooking": "https://goldentouchnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/12/34/56/123456abcdef7890.jpg",
+      "services": ["Gel Polish", "Nail Art"],
+      "avgRating": 4.2,
+      "reviews": [
+        { "user": "Lan", "rating": 4, "comment": "Rất đẹp, giá cả hợp lý." }
+      ],
+      "createdAt": "2026-03-30T13:15:00.000Z",
+      "updatedAt": "2026-03-30T13:15:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cb12345d811d70570ba879",
+      "name": "Blossom Nails & Spa",
+      "address": "35 Trần Phú",
+      "city": "Đà Nẵng",
+      "state": "Đà Nẵng",
+      "phone": "0978123456",
+      "website": "https://blossomnails.vn",
+      "btnBooking": "https://blossomnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/34/56/78/345678abcdef9012.jpg",
+      "services": ["Manicure", "Pedicure", "Gel Polish", "Nail Art"],
+      "avgRating": 4.7,
+      "reviews": [
+        { "user": "Hoa", "rating": 5, "comment": "Dịch vụ tốt, sẽ quay lại!" }
+      ],
+      "createdAt": "2026-03-30T13:20:00.000Z",
+      "updatedAt": "2026-03-30T13:20:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cc12345d811d70570ba880",
+      "name": "Crystal Nails Lounge",
+      "address": "12 Hoàng Văn Thụ",
+      "city": "Hồ Chí Minh",
+      "state": "HCM",
+      "phone": "0909876543",
+      "website": "https://crystalnails.vn",
+      "btnBooking": "https://crystalnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/aa/bb/cc/aabbcc1234567890.jpg",
+      "services": ["Manicure", "Pedicure", "Gel Polish", "Nail Art"],
+      "avgRating": 4.6,
+      "reviews": [
+        { "user": "Vy", "rating": 5, "comment": "Rất đẹp, nhân viên chuyên nghiệp!" }
+      ],
+      "createdAt": "2026-03-30T13:30:00.000Z",
+      "updatedAt": "2026-03-30T13:30:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cc12345d811d70570ba881",
+      "name": "Diamond Nails Studio",
+      "address": "50 Nguyễn Thị Minh Khai",
+      "city": "Hà Nội",
+      "state": "Hà Nội",
+      "phone": "0912345679",
+      "website": "https://diamondnails.vn",
+      "btnBooking": "https://diamondnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/dd/ee/ff/ddeeff1234567890.jpg",
+      "services": ["Acrylic Nails", "Gel Nails", "Spa Hand & Foot"],
+      "avgRating": 4.8,
+      "reviews": [
+        { "user": "Hằng", "rating": 5, "comment": "Dịch vụ tuyệt vời, sẽ quay lại!" }
+      ],
+      "createdAt": "2026-03-30T13:35:00.000Z",
+      "updatedAt": "2026-03-30T13:35:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cc12345d811d70570ba882",
+      "name": "Luxe Nails & Spa",
+      "address": "88 Trần Hưng Đạo",
+      "city": "Đà Nẵng",
+      "state": "Đà Nẵng",
+      "phone": "0977123456",
+      "website": "https://luxenails.vn",
+      "btnBooking": "https://luxenails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/11/22/33/112233abcdef5678.jpg",
+      "services": ["Manicure", "Pedicure", "Nail Art"],
+      "avgRating": 4.4,
+      "reviews": [
+        { "user": "Quỳnh", "rating": 4, "comment": "Không gian đẹp, nhân viên thân thiện." }
+      ],
+      "createdAt": "2026-03-30T13:40:00.000Z",
+      "updatedAt": "2026-03-30T13:40:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cc12345d811d70570ba883",
+      "name": "Pearl Glow Nails",
+      "address": "25 Lê Lợi",
+      "city": "Hồ Chí Minh",
+      "state": "HCM",
+      "phone": "0908765432",
+      "website": "https://pearlglownails.vn",
+      "btnBooking": "https://pearlglownails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/44/55/66/445566abcdef1234.jpg",
+      "services": ["Gel Polish", "Nail Art", "Manicure"],
+      "avgRating": 4.7,
+      "reviews": [
+        { "user": "Trang", "rating": 5, "comment": "Dịch vụ tốt, rất đáng giá!" }
+      ],
+      "createdAt": "2026-03-30T13:45:00.000Z",
+      "updatedAt": "2026-03-30T13:45:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "69cc12345d811d70570ba884",
+      "name": "Blissful Nails",
+      "address": "60 Nguyễn Văn Cừ",
+      "city": "Hà Nội",
+      "state": "Hà Nội",
+      "phone": "0911987654",
+      "website": "https://blissfulnails.vn",
+      "btnBooking": "https://blissfulnails.vn/booking",
+      "imgStore": "https://i.pinimg.com/1200x/77/88/99/778899abcdef1234.jpg",
+      "services": ["Manicure", "Pedicure", "Spa Hand & Foot", "Gel Polish"],
+      "avgRating": 4.5,
+      "reviews": [
+        { "user": "Hà", "rating": 5, "comment": "Rất chuyên nghiệp, không gian sang trọng!" }
+      ],
+      "createdAt": "2026-03-30T13:50:00.000Z",
+      "updatedAt": "2026-03-30T13:50:00.000Z",
       "__v": 0
     }
   ];
