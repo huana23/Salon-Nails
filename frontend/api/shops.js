@@ -255,7 +255,7 @@ export default function handler(req, res) {
       "phone": "0912345678",
       "website": "https://sunsetnails.vn",
       "btnBooking": "https://sunsetnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/ab/cd/12/abcdef1234567890.jpg",
+      "imgStore": "https://i.pinimg.com/736x/ed/ed/1b/eded1ba6284542b8a25f793ac1dba755.jpg",
       "services": ["Manicure", "Pedicure", "Gel Nails"],
       "avgRating": 4.5,
       "reviews": [
@@ -274,7 +274,7 @@ export default function handler(req, res) {
       "phone": "0987654322",
       "website": "https://oceanbreeze.vn",
       "btnBooking": "https://oceanbreeze.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/cd/ef/34/cdef341234567890.jpg",
+      "imgStore": "https://i.pinimg.com/736x/af/b2/2f/afb22f53ce36cc085350e0ba9f96fff8.jpg",
       "services": ["Nail Art", "Spa Hand & Foot"],
       "avgRating": 4,
       "reviews": [
@@ -293,7 +293,7 @@ export default function handler(req, res) {
       "phone": "0901234567",
       "website": "https://pearlnails.vn",
       "btnBooking": "https://pearlnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/ef/12/ab/ef12ab3456789012.jpg",
+      "imgStore": "https://i.pinimg.com/736x/09/25/ee/0925ee04f76e23c55f074e8daca9e805.jpg",
       "services": ["Acrylic Nails", "Manicure", "Pedicure"],
       "avgRating": 4.8,
       "reviews": [
@@ -312,7 +312,7 @@ export default function handler(req, res) {
       "phone": "0911223344",
       "website": "https://goldentouchnails.vn",
       "btnBooking": "https://goldentouchnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/12/34/56/123456abcdef7890.jpg",
+      "imgStore": "https://i.pinimg.com/736x/dd/0c/6e/dd0c6e447668fe392f62be33031ea167.jpg",
       "services": ["Gel Polish", "Nail Art"],
       "avgRating": 4.2,
       "reviews": [
@@ -331,7 +331,7 @@ export default function handler(req, res) {
       "phone": "0978123456",
       "website": "https://blossomnails.vn",
       "btnBooking": "https://blossomnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/34/56/78/345678abcdef9012.jpg",
+      "imgStore": "https://i.pinimg.com/736x/91/69/ee/9169ee8f2bf99e74f7bd2e6a243e2b13.jpg",
       "services": ["Manicure", "Pedicure", "Gel Polish", "Nail Art"],
       "avgRating": 4.7,
       "reviews": [
@@ -350,7 +350,7 @@ export default function handler(req, res) {
       "phone": "0909876543",
       "website": "https://crystalnails.vn",
       "btnBooking": "https://crystalnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/aa/bb/cc/aabbcc1234567890.jpg",
+      "imgStore": "https://i.pinimg.com/736x/86/6d/08/866d08ea4262b95ea1488302274a8bc4.jpg",
       "services": ["Manicure", "Pedicure", "Gel Polish", "Nail Art"],
       "avgRating": 4.6,
       "reviews": [
@@ -369,7 +369,7 @@ export default function handler(req, res) {
       "phone": "0912345679",
       "website": "https://diamondnails.vn",
       "btnBooking": "https://diamondnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/dd/ee/ff/ddeeff1234567890.jpg",
+      "imgStore": "https://i.pinimg.com/736x/78/04/a7/7804a780c7966133df73e659714a07a8.jpg",
       "services": ["Acrylic Nails", "Gel Nails", "Spa Hand & Foot"],
       "avgRating": 4.8,
       "reviews": [
@@ -388,7 +388,7 @@ export default function handler(req, res) {
       "phone": "0977123456",
       "website": "https://luxenails.vn",
       "btnBooking": "https://luxenails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/11/22/33/112233abcdef5678.jpg",
+      "imgStore": "https://i.pinimg.com/736x/68/ff/2c/68ff2c200f7b0e1fc2dbe683e3d83082.jpg",
       "services": ["Manicure", "Pedicure", "Nail Art"],
       "avgRating": 4.4,
       "reviews": [
@@ -407,7 +407,7 @@ export default function handler(req, res) {
       "phone": "0908765432",
       "website": "https://pearlglownails.vn",
       "btnBooking": "https://pearlglownails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/44/55/66/445566abcdef1234.jpg",
+      "imgStore": "https://i.pinimg.com/736x/96/ac/1c/96ac1c26576b67a3f63f90fcac2d892e.jpg",
       "services": ["Gel Polish", "Nail Art", "Manicure"],
       "avgRating": 4.7,
       "reviews": [
@@ -426,7 +426,7 @@ export default function handler(req, res) {
       "phone": "0911987654",
       "website": "https://blissfulnails.vn",
       "btnBooking": "https://blissfulnails.vn/booking",
-      "imgStore": "https://i.pinimg.com/1200x/77/88/99/778899abcdef1234.jpg",
+      "imgStore": "https://i.pinimg.com/1200x/7f/13/24/7f1324a24fd933b0618ae24d8b5433ef.jpg",
       "services": ["Manicure", "Pedicure", "Spa Hand & Foot", "Gel Polish"],
       "avgRating": 4.5,
       "reviews": [
