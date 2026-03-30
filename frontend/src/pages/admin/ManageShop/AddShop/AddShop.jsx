@@ -43,7 +43,7 @@ function AddShop() {
   formData.append("image", file);
 
   try {
-    const res = await fetch("http://localhost:5001/api/shops/upload", {
+    const res = await fetch("/api/shops/upload", {
       method: "POST",
       body: formData,
     });
@@ -89,7 +89,7 @@ function AddShop() {
     };
 
     try {
-      const response = await fetch("http://localhost:5001/api/shops", {
+      const response = await fetch("/api/shops", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(dataToSend),

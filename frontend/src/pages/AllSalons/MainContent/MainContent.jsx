@@ -15,7 +15,7 @@ function MainContent() {
   useEffect(() => {
     async function fetchDestinations() {
       try {
-        const response = await fetch("http://localhost:5001/api/shops");
+        const response = await fetch("/api/shops");
         const data = await response.json();
         // console.log("API data:", data);
 

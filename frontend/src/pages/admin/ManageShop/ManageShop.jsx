@@ -14,7 +14,7 @@ function ManageShop() {
   useEffect(() => {
     async function fetchSalons() {
       try {
-        const response = await fetch("http://localhost:5001/api/shops");
+        const response = await fetch("/api/shops");
         const data = await response.json();
 
         const mappedData = data.map((shop) => ({
@@ -34,7 +34,7 @@ function ManageShop() {
           img: shop.imgStore
             ? shop.imgStore.startsWith("http")
               ? shop.imgStore
-              : `http://localhost:5001${shop.imgStore}`
+              : `${shop.imgStore}`
             : "https://placekitten.com/400/300",
         }));
 
@@ -77,7 +77,7 @@ function ManageShop() {
 
     try {
       const response = await fetch(
-        `http://localhost:5001/api/shops/${selectedSalon.id}`,
+        `/api/shops/${selectedSalon.id}`,
         { method: "DELETE" }
       );
 

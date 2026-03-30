@@ -22,7 +22,7 @@ function TopSalons() {
   useEffect(() => {
     async function fetchSalons() {
       try {
-        const res = await fetch("http://localhost:5001/api/shops");
+        const res = await fetch("/api/shops");
         const data = await res.json();
 
         const mappedData = data.map((shop) => ({
@@ -33,7 +33,7 @@ function TopSalons() {
             shop.imgStore && shop.imgStore !== ""
               ? shop.imgStore.startsWith("http")
                 ? shop.imgStore
-                : `http://localhost:5001${shop.imgStore}`
+                : `${shop.imgStore}`
               : "https://placekitten.com/400/300",
         }));
 
